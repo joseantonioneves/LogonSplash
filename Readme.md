@@ -43,5 +43,3 @@ Contém um projeto Windows Forms em C# chamado **LogonSplash**. O objetivo do pr
 - O projeto é um template básico de tela de logon, pronto para ser expandido.
 - Para personalizar, edite o formulário em Logon.cs e Logon.Designer.cs.
 - Recursos visuais (ícones, imagens) podem ser alterados na pasta icone.
-
-Se precisar de detalhes sobre como adicionar autenticação ou customizar a interface, posso ajudar!
