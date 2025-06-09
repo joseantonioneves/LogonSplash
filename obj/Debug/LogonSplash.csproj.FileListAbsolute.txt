@@ -1,0 +1,9 @@
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\bin\Debug\LogonSplash.exe.config
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\bin\Debug\LogonSplash.exe
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\bin\Debug\LogonSplash.pdb
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.frm_Logon.resources
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.exe
+C:\Users\José Antonio\source\repos\LogonSplashTesteDemo\LogonSplash\obj\Debug\LogonSplash.pdb
